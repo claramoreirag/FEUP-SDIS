@@ -1,6 +1,4 @@
 # SDIS Project
-
-# RCOM
 Project developed for the SDIS course, part of the Integrated Master's in Informatics and Computing Engeneering @FEUP
 Consisted of a peer-2-peer file recover system.
 ## Details
