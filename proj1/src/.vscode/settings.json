@@ -1,0 +1,6 @@
+{
+  "liveshare.allowGuestDebugControl": true,
+  "liveshare.allowGuestTaskControl": true,
+  "liveshare.diagnosticMode": true,
+  "liveshare.diagnosticLogging": true
+}
